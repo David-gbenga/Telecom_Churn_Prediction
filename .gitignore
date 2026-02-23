@@ -1,2 +1,4 @@
 Notebooks/uk_telecom.duckdb
+Notebooks/uk_telecom.duckdb.wal
 data
+.venv
