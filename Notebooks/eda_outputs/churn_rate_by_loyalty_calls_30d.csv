@@ -1,0 +1,5 @@
+loyalty_call_bucket_30d,n_snapshots,n_churn_30d,churn_rate_30d_pct
+2-3 loyalty calls,13650,3509.0,25.71
+4+ loyalty calls,2333,525.0,22.5
+1 loyalty call,48293,10817.0,22.4
+0 loyalty calls,3481262,123797.0,3.56

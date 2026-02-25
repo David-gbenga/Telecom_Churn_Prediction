@@ -1,0 +1,31 @@
+crm_package_name,n_snapshots,n_churn_30d,churn_rate_30d_pct
+Ultra Fibre Optic,3545,439.0,12.38
+Ultra Fibre Optic Broadband,61,6.0,9.84
+Fast Broadband,251250,12495.0,4.97
+Fibre 250 (GFast-OR),8104,382.0,4.71
+Fast Broadband Extra,133,6.0,4.51
+Faster Fibre,311508,13357.0,4.29
+Fibre 65 (FTTC-OR),1784809,75271.0,4.22
+Fibre 150 (GFast-OR),170048,6227.0,3.66
+Essentials SMPF,271,9.0,3.32
+MPF Anytime Voice Only - Talk UK Anytime,2853,94.0,3.29
+Fibre 35 (FTTC-OR),911961,28409.0,3.12
+Broadband Only (SMPF),10590,317.0,2.99
+Plus TV Access Everything,5171,151.0,2.92
+Broadband & Calls (SMPF + CPS),1369,38.0,2.78
+TalkTalk Essentials,5810,155.0,2.67
+SimplyBroadband with Fibre,3878,102.0,2.63
+SimplyBroadband,6765,176.0,2.6
+Talk UK Anytime CPS,944,24.0,2.54
+Plus with Fibre,529,13.0,2.46
+TalkTalk Plus,2036,49.0,2.41
+BB (SMPF),10448,245.0,2.34
+Talk UK Anytime - LR,1088,25.0,2.3
+Essentials TV Access Everything,4532,102.0,2.25
+Plus TV Access Everything with Fibre,4049,90.0,2.22
+Plus TV On Demand,903,20.0,2.21
+BB with calls (SMPF retain MRC),1231,27.0,2.19
+Talk3 CPS,94,2.0,2.13
+TalkTalk SMPF BB & CPS,712,15.0,2.11
+Essentials TV Access Everything with Fibre,4618,96.0,2.08
+TalkTalk Essentials Paid BB,50,1.0,2.0

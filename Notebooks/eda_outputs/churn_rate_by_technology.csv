@@ -1,0 +1,5 @@
+technology,n_snapshots,n_churn_30d,churn_rate_30d_pct
+FTTP,8884,446.0,5.02
+MPF,346213,14448.0,4.17
+FTTC,3012289,117145.0,3.89
+GFAST,178152,6609.0,3.71

@@ -1,0 +1,14 @@
+sales_channel,n_snapshots,n_churn_30d,churn_rate_30d_pct
+Online - Affiliate,885088,49928.0,5.64
+Partners,297457,16666.0,5.6
+Webchat,79986,3721.0,4.65
+Online - Ambient,182657,7920.0,4.34
+Online - Search,289458,12314.0,4.25
+Retail,221620,8701.0,3.93
+Inbound,465320,16775.0,3.61
+Online - Other,30913,1019.0,3.3
+Field,39498,1176.0,2.98
+Outbound,25535,635.0,2.49
+Unknown,433451,10340.0,2.39
+Other,3843,72.0,1.87
+Migrated Customer,590712,9381.0,1.59

@@ -1,0 +1,6 @@
+usage_decline_bucket,n_snapshots,n_churn_30d,churn_rate_30d_pct
+Decline >50%,292739,28962.0,9.89
+No prior usage baseline,582999,35573.0,6.1
+Decline 0-50%,1139142,34339.0,3.01
+Increase,1530655,39774.0,2.6
+Flat,3,0.0,0.0

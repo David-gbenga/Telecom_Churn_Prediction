@@ -1,4 +1,9 @@
 Notebooks/uk_telecom.duckdb
 Notebooks/uk_telecom.duckdb.wal
+Notebooks/k_telecom_session2.duckdb
+Notebooks/k_telecom_session2.duckdb.wal
+Notebooks/uk_telecom_session2.duckdb
+Notebooks/k_telecom_session2.duckdb.tmp/
+        
 data
 .venv

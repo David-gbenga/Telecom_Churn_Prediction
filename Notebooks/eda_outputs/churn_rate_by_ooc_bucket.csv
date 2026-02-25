@@ -1,0 +1,8 @@
+ooc_days_bucket,n_snapshots,n_churn_30d,churn_rate_30d_pct
+Near contract end (<=30d),123795,27825.0,22.48
+Out of contract (1-30d),78299,12607.0,16.1
+Out of contract (31-90d),112574,9997.0,8.88
+In contract (31-90d left),297006,24122.0,8.12
+Out of contract (90d+),961707,37930.0,3.94
+Unknown,18948,387.0,2.04
+In contract (>90d left),1953209,25780.0,1.32
